@@ -1,0 +1,150 @@
+#title{
+  background-color: #F5FFFA;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+h1
+{
+  font-family: "Montserrat-Black"
+  font-size:3.5rem;
+  line-height: 1.5;
+  color: #fff;
+  font-weight: 900;
+}
+body{
+  font-family: "Montserrat";
+}
+.navbar{
+  padding-bottom:4.5rem;
+}
+.navbar-brand{
+color: rgb(0, 106, 197);
+font-size:  2.5rem;
+font-weight: 500;
+    line-height: 120%;
+font-family: Rubik, sans-serif;
+
+
+}
+.navbar-dark .navbar-brand {
+  color: rgb(0, 106, 197);}
+.navbar-dark .navbar-nav .nav-link{
+    color: #000000;
+}
+.navbar-nav .nav-link{
+  color: #000000;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+.nav-link{
+  color: #000000;
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+
+}
+
+.title-image{
+  width: 80%;
+
+}
+.f{
+  font-family: 'Hind', sans-serif;
+}
+.hh{
+  color: #000000;
+  font-family: 'Acme', sans-serif;
+}
+.h1change{
+  font-family: 'Acme', sans-serif;
+  color: rgb(0, 106, 197);
+}
+#features{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+
+}
+.dist{
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 5px;
+  margin-top: 12px;
+
+}
+.colo{
+  color: rgb(0, 106, 197);
+}
+h2
+{
+  font-family: "Montserrat-Bold";
+  line-height: 1.5;
+  font-size: 3rem;
+}
+h3
+{
+  font-family: "Montserrat-Bold";
+}
+p{
+  color: #8f8f8f;
+}
+
+
+
+#pricing{
+    background-color: #F5FFFA;
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+.pc{
+  color: rgb(0, 106, 197);
+}
+.googfo{
+  font-family: 'Josefin Sans', sans-serif;
+}
+#mentors{
+  padding: 100px;
+  text-align: center;
+}
+.animated {
+   -webkit-transition: height 0.2s;
+   -moz-transition: height 0.2s;
+   transition: height 0.2s;
+}
+
+.stars
+{
+   margin: 20px 0;
+   font-size: 24px;
+   color: #d17581;
+}
+.feed{
+    background-color: #F5FFFA;
+}
+.review{
+  padding-bottom: 30px;
+      background-color: #F5FFFA;
+}
+@media (max-width:1028px){
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+}
+.greencolor{
+  background-color: 	#2E8B57;
+}
+.footr{
+  text-align: center;
+}
